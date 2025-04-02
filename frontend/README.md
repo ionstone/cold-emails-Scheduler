@@ -132,17 +132,3 @@ Run tests using:
 npm test
 ```
 
-## Contributing
-
-1. Create a new branch for your feature
-2. Make your changes
-3. Run tests and linting
-4. Submit a pull request
-
-## Deployment
-
-The application can be deployed to any static hosting service:
-- Vercel
-- Netlify
-- GitHub Pages
-- AWS S3
